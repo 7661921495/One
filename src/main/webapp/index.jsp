@@ -899,7 +899,7 @@
                 <div class="product-info">
                     <h3>MacBook Pro 14"</h3>
                     <div class="price">$1,999</div>
-                    <div class="rating">★★★★☆ <span>(86)</span></div>
+                    <div class="rating">★★★★☆ <span>(87)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
             </div>
