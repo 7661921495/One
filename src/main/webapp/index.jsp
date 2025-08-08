@@ -1121,7 +1121,9 @@
             </div>
             
             <div class="footer-bottom">
-                <p>&copy; 2023 NexusShop. All rights reserved.</p>
+                <p>
+<h2>Developed by ADI NARAYANA.</h2>
+</p>
             </div>
         </div>
     </footer>
