@@ -1015,7 +1015,7 @@
                 <div class="user-info">
                     <img src="https://randomuser.me/api/portraits/women/43.jpg" alt="Sarah J." class="user-avatar">
                     <div>
-                        <div class="user-name">Sarah J.</div>
+                        <div class="user-name">SarahJ.</div>
                         <div class="user-title">Verified Buyer</div>
                     </div>
                 </div>
