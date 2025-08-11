@@ -1122,7 +1122,7 @@
             
             <div class="footer-bottom">
                 <p>
-<h2>Developed by ADI NARAYANA.</h2>
+<h2>Developed by DGGEMPUDI ADI NARAYANA.</h2>
 </p>
             </div>
         </div>
